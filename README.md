@@ -8,5 +8,5 @@
 <code>🧑‍💻 Languages: JavaScript, C</code>
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 [Telegram](https://telegram.me/lesha_s4)</code>
+<code>💬 [Telegram](https://telegram.me/alex_shopiak)</code>
 <code>📫 [Gmail](mailto:alshop2004@gmail.com)</code>
