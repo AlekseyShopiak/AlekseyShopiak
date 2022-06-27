@@ -8,23 +8,23 @@
 |----------------------|-----------------------|-----------------------|---------------------|----------------------|
 | 🟩 value             | 🟩 if                 | 🟩 recursion          | 🟩 array            | 🟩 refactoring       |
 | 🟩 identifier        | 🟩 loops              | 🟩 function           | 🟩 instance         | 🟩 code review       |
-| 🟩 variable          | 🟦 assignment         | 🟩 return             | 🟩 object           | 🟩 antipatterns      |
+| 🟩 variable          | 🟩 assignment         | 🟩 return             | 🟩 object           | 🟩 antipatterns      |
 | 🟩 constant          | 🟩 prototype          | 🟦 signature          | 🟦 collection       | 🟩 paradigm          |
 | 🟩 scalar            | 🟩 class              | 🟩 argument           | 🟦 hash table       | 🟦 algorithm         |
 | 🟩 literal           | 🟩 while              | 🟩 parameter          | 🟦 linked list      | 🟩 magic numbers     |
 | 🟩 expression        | 🟩 do..while          | 🟩 pure               | 🟦 queue            | 🟩 hardcode          |
-| 🟦 heap              | 🟩 for                | 🟩 function           | 🟩 stack            | 🟩 complexity        |
+| 🟩 heap              | 🟩 for                | 🟩 function           | 🟩 stack            | 🟩 complexity        |
 | 🟩 type              | 🟩 for..in            | 🟩 side effects       | 🟦 deque            | 🟩 decomposition     |
 | 🟩 primitive types   | 🟩 for..of            | 🟩 closure            | 🟦 serialization    | 🟩 spaghetti         |
 | 🟩 reference         | 🟨 for await          | 🟩 partial            | 🟦 mixin, extend    | 🟩 silver bullet     |
-| 🟩 flag              | 🟦 throw              | 🟩 curry              | 🟨 iterator         | 🟩 not invented here |
+| 🟩 flag              | 🟩 throw              | 🟩 curry              | 🟨 iterator         | 🟩 not invented here |
 | 🟩 lexical scope     | 🟩 try..catch         | 🟩 chaining           | 🟩 typed arrays     | 🟩 dead code         |
-| 🟩 code block        | 🟦 equality operators | 🟩 higher order       | 🟩 Map              | 🟩 unreachable code  |
+| 🟩 code block        | 🟩 equality operators | 🟩 higher order       | 🟩 Map              | 🟩 unreachable code  |
 | 🟩 Object            | 🟩 logical operators  | 🟩 callback           | 🟩 Set              | 🟩 duplicate code    |
-| 🟩 this              | 🟦 bitwise operators  | 🟦 listener           | 🟩 weak collections | 🟦 exception         |
+| 🟩 this              | 🟩 bitwise operators  | 🟦 listener           | 🟩 weak collections | 🟦 exception         |
 | 🟩 arrow function    | 🟩 break, continue    | ⬜️ pipe               | ⬜️ Proxy            | 🟦 return early      |
-| 🟨 generator         | 🟦 switch             | 🟩 memoize            | ⬜️ Symbol           | 🟩 linter            |
-| 🟩 async function    | 🟨 new Error          | 🟦 factory            | 🟨 string parsing   | 🟩 prettier          |
+| 🟨 generator         | 🟩 switch             | 🟩 memoize            | ⬜️ Symbol           | 🟩 linter            |
+| 🟩 async function    | 🟩 new Error          | 🟦 factory            | 🟨 string parsing   | 🟩 prettier          |
 | 🟩 call, bind, apply |                       | 🟦 pool               | 🟨 timers           | 🟦 unittest          |
 | 🟩 Array             |                       | 🟩 wrapper            | 🟨 EventEmitter     | 🟩 git               |
 | 🟩 instanceof        |                       | 🟩 default parameters | 🟨 RegExp           | 🟩 github            |
@@ -86,8 +86,8 @@
 | Internals            | Theory                       | Network           | Technique        | Problems             |
 |----------------------|------------------------------|-------------------|------------------|----------------------|
 | 🟦 Nonblocking I/O   | 🟦 I/O bound tasks           | 🟦 HTTP(S)        | 🟦 Logging       | 🟦 Memory leaks      |
-| 🟦 Event Loop        | 🟦 CPU bound tasks           | 🟦 TCP/SSL        | 🟦 Testing       | 🟦 Resource leaks    |
-| 🟦 commonjs          | 🟦 Memory bound tasks        | 🟦 UDP            | ⬜ CI/CD         | 🟦 Blocking code     |
+| 🟦 Event Loop        | 🟦 CPU bound tasks           | 🟩 TCP/SSL        | 🟦 Testing       | 🟦 Resource leaks    |
+| 🟦 commonjs          | 🟦 Memory bound tasks        | 🟩 UDP            | ⬜ CI/CD         | 🟦 Blocking code     |
 | 🟦 ECMA modules      | 🟦 Multilayer approach       | 🟦 TLS            | 🟦 Readable      | 🟦 Data race         |
 | 🟦 Network API       | 🟦 Separation of concerns    | 🟦 Websocket      | 🟦 Writable      | 🟦 Graceful Shutdown |
 | ⬜ Addons            | 🟦 Inversion of control      | ⬜ SSE            | 🟦 Transform     | 🟦 Dependencies      |
@@ -102,7 +102,7 @@
 | 🟦 Streams           | 🟦 Domain in the middle      | 🟦 XSS            |                  |                      |
 | 🟦 Clustering        | 🟦 Message Queue             | 🟦 Path traversal |                  |                      |
 | ⬜ Load balancing    | 🟦 Transport-agnostic server | 🟦 CSRF           |                  |                      |
-| ⬜ Serverless clouds | 🟦 Framework-agnostic app    | 🟦 DNS            |                  |                      |
+| ⬜ Serverless clouds | 🟦 Framework-agnostic app    | 🟩 DNS            |                  |                      |
 | ⬜ FaaS clouds       | ⬜ Interactive applications  | 🟦 Fetch          |                  |                      |
 | 🟦 Debugging node.js | ⬜ Real-time applications    | 🟦 zlib           |                  |                      |
 | 🟦 crypto            | 🟦 CQS and CQRS              |                   |                  |                      |
