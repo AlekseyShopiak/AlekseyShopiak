@@ -10,7 +10,5 @@
 <code>💬 [Telegram](https://telegram.me/alex_shopiak)</code>
 <code>📫 [Gmail](mailto:alshop2004@gmail.com)</code>
 
-![](https://komarev.com/ghpvc/?username=your-github-AlexShopiak&color=blue)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexShopiak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
