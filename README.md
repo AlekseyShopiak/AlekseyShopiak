@@ -11,8 +11,5 @@
 <code>📫 [Gmail](mailto:alshop2004@gmail.com)</code>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alekseyshopiak&show_icons=true&include_all_commits=true&theme=shades-of-purple_border=false" alt="Alex's github stats" />
-</a> 
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekseyshopiak&layout=compact&theme=shades-of-purple_border=false" />
 </a> 
