@@ -1,26 +1,35 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Alex+Shopiak+👦;KPI+2nd+year+student;CPP+and+nodeJS+Developer!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Alex+Shopiak+👽;KPI+2nd+year+student;CPP+and+nodeJS+Developer!;)](https://git.io/typing-svg)
 
 <p align="leftr">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-<code>🎓 Student: KPI / IM-13</code>
-<code>👷 Speciality: Software engineer / Frontend</code><br>
-<code>💡 [Skills](SKILLS.md)</code>
-<code>🧻 [Projects](PROJECTS.md)</code>
-<code>📢 [Public talks: 0](TALKS.md)</code>
-<code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
-<code>🧑‍💻 Languages: JavaScript, C++ </code>
-<code>📦 Tech stack: -</code>
-<code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 [Telegram](https://telegram.me/alex_shopiak)</code>
-<code>📫 [Gmail](mailto:alshop2004@gmail.com)</code>
 
+
+<details align="left">
+  <summary><h2><b>👦Personal info</b></h2></summary>
+  <p>
+   <code>🎓 Student: KPI / IM-13</code>
+   <code>👷 Speciality: Software engineer / Frontend</code><br>
+   <code>💡 <a href="https://github.com/AlexShopiak/AlexShopiak/blob/main/SKILLS.md">Skills</a></code>
+   <code>🧻 <a href="https://github.com/AlexShopiak/AlexShopiak/blob/main/PROJECTS.md">Projects</a></code>
+   <code>📢 <a href="https://github.com/AlexShopiak/AlexShopiak/blob/main/TALKS.md">Public talks</a></code>
+   <code>👀 <a href="https://github.com/AlexShopiak/AlexShopiak/blob/main/CONTRIBUTION.md">Open-source contribution</a></code><br>
+   <code>🧑‍💻 Languages: JavaScript, C++ </code>
+   <code>📦 Tech stack: nodeJS</code>
+   <code>📈 <a href="https://github.com/AlexShopiak/AlexShopiak/blob/main/RATES.md">Rates</a></code><br>
+   <code>💬 <a href="https://telegram.me/alex_shopiak">Telegram</a></code>
+   <code>💌 <a href="https://www.instagram.com/alex_shopiak/">Instagram</a></code>
+   <code>📫 <a href="mailto:alshop2004@gmail.com">Gmail</a></code> <br>
+  </p>
+</details>
 
 <details align="left">
   <summary><h2><b>📊Statistics</b></h2></summary>
   <p>
+   <code><a href="https://www.w3schools.com">ABOBA</a></code>
+   <br>
    <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexShopiak&layout=compact&theme=dark" />  
    <br>
    <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlexShopiak&show_icons=true&theme=dark" />
