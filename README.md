@@ -1,9 +1,8 @@
-<h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Alex Shopiak</h1>
+<h1 align="left">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Alex Shopiak</h1>
 
-<p align="center">
+<p align="leftr">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
 
  <code>🎓 Student: KPI / IM-13</code>
  <code>👷 Speciality: Software engineer / Frontend</code><br>
@@ -16,7 +15,6 @@
  <code>🪙 [Rates](RATES.md)</code><br>
  <code>💬 [Telegram](https://telegram.me/alex_shopiak)</code>
  <code>📫 [Gmail](mailto:alshop2004@gmail.com)</code>
-
 
 <details align="left">
   <summary><h2><b>⭐Statistic</b></h2></summary>
