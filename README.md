@@ -1,19 +1,20 @@
-<h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 𝙱𝚊𝚐𝚐𝚎𝚛𝙵𝚊𝚜𝚝</h1>
+<code>🎓 Student: KPI / IM-13</code>
+<code>👷 Speciality: Software engineer / Frontend</code><br>
+<code>💡 [Skills](SKILLS.md)</code>
+<code>🧻 [Projects](PROJECTS.md)</code>
+<code>📢 [Public talks: 0](TALKS.md)</code>
+<code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
+<code>🧑‍💻 Languages: JavaScript, C++ </code>
+<code>📦 Tech stack: -</code>
+<code>🪙 [Rates](RATES.md)</code><br>
+<code>💬 [Telegram](https://telegram.me/alex_shopiak)</code>
+<code>📫 [Gmail](mailto:alshop2004@gmail.com)</code>
 
-<h3 align="center">Python Developer</h3>
-<p align="center">
- <a href="https://www.youtube.com/channel/UCNrRkCTcOGKAvg45I-hX-3g"><img src="https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube&logoColor=white"/></a>
- <a href="https://tlgg.ru/BaggerFast"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" /></a>
- <br>
- <img alt="codeSTACKr's GitHub Stats" src="https://komarev.com/ghpvc/?username=your-github-BaggerFast&color=green" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexShopiak&theme=dark&layout=compact&langs_count=8)
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
-## [🖥My projects](markdown/main.md)  
-## [📋My it manuals](https://github.com/BaggerFast/ItManuals)
 
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
