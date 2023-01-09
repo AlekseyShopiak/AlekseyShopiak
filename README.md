@@ -28,8 +28,6 @@
 <details align="left">
   <summary><h2><b>📊Statistics</b></h2></summary>
   <p>
-   <code><a href="https://www.w3schools.com">ABOBA</a></code>
-   <br>
    <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexShopiak&layout=compact&theme=dark" />  
    <br>
    <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlexShopiak&show_icons=true&theme=dark" />
