@@ -10,11 +10,11 @@
 <code>💬 [Telegram](https://telegram.me/alex_shopiak)</code>
 <code>📫 [Gmail](mailto:alshop2004@gmail.com)</code>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexShopiak&theme=dark&layout=compact&langs_count=8)
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexShopiak&theme=dark&layout=compact&langs_count=8)
 
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
