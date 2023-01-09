@@ -35,3 +35,5 @@
    <img src="https://metrics.lecoq.io/AlexShopiak" />
   </p>
 </details>
+
+![](https://komarev.com/ghpvc/?username=your-github-Dimdim28&color=blue)
