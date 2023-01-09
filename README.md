@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Alex+Shopiak+👦;KPI+student,+CPP+and+nodeJS+developer+.;)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=DevOps,+Full-Stack+Engineer;Social+Influencer;and+Film+Maker!;)](https://git.io/typing-svg)
 <p align="leftr">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
