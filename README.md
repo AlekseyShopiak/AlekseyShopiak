@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Alex+Shopiak+👽;KPI+2nd+year+student;CPP+and+nodeJS+Developer!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Alex+Shopiak+👽++++++++++;KPI+2nd+year+student,+CPP+and+nodeJS+Developer!;)](https://git.io/typing-svg)
 
 <p align="leftr">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
