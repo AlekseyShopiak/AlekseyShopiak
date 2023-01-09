@@ -19,7 +19,7 @@
 
 
 <details align="left">
-  <summary><h2><b>📊Statistic</b></h2></summary>
+  <summary><h2><b>📊Statistics</b></h2></summary>
   <p>
    <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexShopiak&layout=compact&theme=dark" />  
    <br>
