@@ -1,11 +1,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Alex+Shopiak+👽;KPI+2nd+year+student;CPP+and+nodeJS+Developer!;)](https://git.io/typing-svg)
 
-<p align="leftr">
+<p>
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
-
 
 <details align="left">
   <summary><h2><b>👦Personal info</b></h2></summary>
@@ -28,11 +26,9 @@
 <details align="left">
   <summary><h2><b>📊Statistics</b></h2></summary>
    <p>
-     <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michigang1&layout=compact&theme=dark" />  
+     <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexshopiak&theme=dark" />  
    <br>
-     <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alex&show_icons=true&theme=dark" />
-   <br>
-   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexshopiak&show_icons=true&include_all_commits=true&theme=shades-of-purple_border=false" alt="Michael's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michigang1&layout=compact&theme=shades-of-purple_border=false" /></a> 
+     <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlexShopiak&theme=dark" />
    <br>
      <img src="https://metrics.lecoq.io/AlexShopiak" />
    <br>
