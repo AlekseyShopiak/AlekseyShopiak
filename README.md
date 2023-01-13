@@ -27,12 +27,12 @@
 
 <details align="left">
   <summary><h2><b>📊Statistics</b></h2></summary>
-  <p>
-   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alexshopiak&show_icons=true&include_all_commits=true&theme=shades-of-purple_border=false" />  
+   <p>
+     <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex&layout=compact&theme=dark" />  
    <br>
-   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexshopiak&layout=compact&theme=shades-of-purple_border=false" />
+     <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alex&show_icons=true&theme=dark" />
    <br>
-   <img src="https://metrics.lecoq.io/AlexShopiak" />
+     <img src="https://metrics.lecoq.io/AlexShopiak" />
    <br>
   </p>
 </details>
