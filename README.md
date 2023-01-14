@@ -9,7 +9,7 @@
   <summary><h2><b>👦Personal info</b></h2></summary>
   <p>
    <code>🎓 Student: KPI / IM-13</code>
-   <code>👷 Speciality: Software engineer / Frontend</code><br>
+   <code>👷 Speciality: Software engineer / Fullstack dev</code><br>
    <code>💡 <a href="https://github.com/AlexShopiak/AlexShopiak/blob/main/SKILLS.md">Skills</a></code>
    <code>🧻 <a href="https://github.com/AlexShopiak/AlexShopiak/blob/main/PROJECTS.md">Projects</a></code>
    <code>📢 <a href="https://github.com/AlexShopiak/AlexShopiak/blob/main/TALKS.md">Public talks</a></code>
