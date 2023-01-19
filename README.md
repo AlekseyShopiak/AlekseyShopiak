@@ -8,7 +8,7 @@
 <details align="left">
   <summary><h2><b>👦Personal info</b></h2></summary>
   <p>
-   <code>🎓 Student: KPI / IM-13</code>
+   <code>🎓 Student: KPI / 121</code>
    <code>👷 Speciality: Software engineer / Backend</code><br>
    <code>💡 <a href="https://github.com/AlexShopiak/AlexShopiak/blob/main/SKILLS.md">Skills</a></code>
    <code>🧻 <a href="https://github.com/AlexShopiak/AlexShopiak/blob/main/PROJECTS.md">Projects</a></code>
