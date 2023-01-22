@@ -5,7 +5,7 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-<details align="left">
+<details align="left"> 
   <summary><h2><b>👦Personal info</b></h2></summary>
   <p>
    <code>🎓 Student: KPI / 121 / IM-13</code>
