@@ -109,3 +109,4 @@
 | ⬜ SharedArrayBuffer | 🟦 Event Sourcing            |                   |                  |                      |
 | 🟦 child_process     | 🟦 Shared memory             |                   |                  |                      |
 | 🟦 worker_threads    |                              |                   |                  |                      |
+.
