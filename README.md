@@ -14,8 +14,8 @@
    <code>🧻 <a href="https://github.com/AlexShopiak/AlexShopiak/blob/main/PROJECTS.md">Projects</a></code>
    <code>📢 <a href="https://github.com/AlexShopiak/AlexShopiak/blob/main/TALKS.md">Public talks</a></code>
    <code>👀 <a href="https://github.com/AlexShopiak/AlexShopiak/blob/main/CONTRIBUTION.md">Open-source contribution</a></code><br>
-   <code>🧑‍💻 Languages: Go, JS</code>
-   <code>📦 Tech stack: nodeJS</code>
+   <code>🧑‍💻 Languages: JS</code>
+   <code>📦 Tech stack: Node.js</code>
    <code>📈 <a href="https://github.com/AlexShopiak/AlexShopiak/blob/main/RATES.md">Rates</a></code><br>
    <code>💬 <a href="https://telegram.me/alex_shopiak">Telegram</a></code>
    <code>💌 <a href="https://www.instagram.com/alex_shopiak/">Instagram</a></code>
