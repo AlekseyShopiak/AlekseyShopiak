@@ -27,8 +27,8 @@
   <summary><h2><b>📊Statistics</b></h2></summary>
    <p>
      <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexshopiak&theme=dark" />  
-   <br>
-     <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlexShopiak&theme=dark" />
+   <!---<br>
+     <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlexShopiak&theme=dark" />-->
    <br>
      <img src="https://metrics.lecoq.io/AlexShopiak" />
    <br>
