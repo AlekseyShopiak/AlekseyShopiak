@@ -36,7 +36,7 @@
 </details>
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsNikolay&theme=dark&layout=compact&langs_count=12" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexShopiak&theme=dark&layout=compact&langs_count=12" />
   <div>
     <h3>Contacts:</h3>
     <a href="https://t.me/Ts4ryk"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" /></a><br>
