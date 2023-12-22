@@ -12,18 +12,27 @@
     <code>🎓 Student: KPI</code>
   </div>
   <div>
-    <code>🎓 Speciality: Software engineer</code>
+    <code>🔧 Speciality: Software engineer</code>
   </div>
   <div>
-    <code>🧑‍💻 Lang: Node.js</code>
+    <code>💻 Language: Node.js</code>
   </div>
 
   <p></p>
+
   <div>
-    <a href="https://t.me/alex_shopiak"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" /></a><br>
-    <a href="https://instagram.com/alex_shopiak"><img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E" /></a><br>
-    <a href="mailto:alshop2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=FF0000" /></a>
+    <code>➤  <a href="https://t.me/alex_shopiak">Telegram</a></code>
   </div>
+  <div>
+    <code>⛺ <a href="https://instagram.com/alex_shopiak">Instagram</a></code>
+  </div>
+  <div>
+    <code>📫 <a href="mailto:alshop2004@gmail.com">Gmail</a></code>
+  </div>
+
+  <p></p>
+
+  ![](https://komarev.com/ghpvc/?username=your-github-AlexShopiak&color=blue) 
 </div>
 
-![](https://komarev.com/ghpvc/?username=your-github-AlexShopiak&color=blue) 
+
