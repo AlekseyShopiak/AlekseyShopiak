@@ -15,7 +15,7 @@
     <code>🔧 Speciality: Software engineer</code>
   </div>
   <div>
-    <code>💻 Language: Node.js</code>
+    <code>💻 Language: Node React</code>
   </div>
 
   <p></p>
