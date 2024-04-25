@@ -15,7 +15,7 @@
     <code>🔧 Speciality: Software engineer</code>
   </div>
   <div>
-    <code>💻 Language: Node React</code>
+    <code>💻 TechStack: Node.js React.js MongoDB</code>
   </div>
 
   <p></p>
