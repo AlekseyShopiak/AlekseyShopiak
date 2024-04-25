@@ -6,7 +6,7 @@
 </p>
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexShopiak&theme=dark&layout=compact&langs_count=12" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexShopiak" />
 
   <div>
     <code>🎓 Student: KPI</code>
