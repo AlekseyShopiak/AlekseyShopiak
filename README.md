@@ -9,7 +9,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexShopiak&theme=dark&layout=compact&langs_count=13" />
 
   <div>
-    <code>🎓 Student: KPI</code>
+    <code>🎓 Education: KPI</code>
   </div>
   <div>
     <code>🔧 Speciality: Software engineer</code>
