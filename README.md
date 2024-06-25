@@ -12,7 +12,7 @@
     <code>🎓 Education: KPI FICT</code>
   </div>
   <div>
-    <code>🔧 Speciality: Software engineer</code>
+    <code>🔧 Speciality: Software developer</code>
   </div>
   <div>
     <code>💻 TechStack: Node.js React.js MongoDB</code>
