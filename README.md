@@ -21,13 +21,7 @@
   <p></p>
 
   <div>
-    <code>➤  <a href="https://t.me/alex_shopiak">Telegram</a></code>
-  </div>
-  <div>
     <code>⛺ <a href="https://instagram.com/alex_shopiak">Instagram</a></code>
-  </div>
-  <div>
-    <code>📫 <a href="mailto:alshop2004@gmail.com">Gmail</a></code>
   </div>
 
   <p></p>
