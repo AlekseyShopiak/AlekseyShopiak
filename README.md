@@ -17,13 +17,7 @@
   <div>
     <code>💻 TechStack: Node.js React.js MongoDB</code>
   </div>
-
-  <p></p>
-
-  <div>
-    <code>⛺ <a href="https://instagram.com/alex_shopiak">Instagram</a></code>
-  </div>
-
+  
   <p></p>
 
   ![](https://komarev.com/ghpvc/?username=your-github-AlexShopiak&color=blue)
